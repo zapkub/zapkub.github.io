@@ -1,5 +1,6 @@
 
 **Name** Rungsikorn Rungsikavanich
+
 **Job Title** Lead Full Stack Javascript Engineer
 
 ## Language
@@ -7,6 +8,12 @@ Typescript, Javascript, Golang
 
 ## Stack
 NodeJS, React, Flux, Redux, GraphQL, NoSQL, Kubernetes, Docker
+
+## Tools
+- VIM
+- VIM
+- VIM
+- VSCode (with VIM)
 
 ## deprecated
 - Angular
