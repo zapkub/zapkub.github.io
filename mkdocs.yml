@@ -1,0 +1,5 @@
+site_name: My Docs
+site_url: https://rungsikorn.rocks
+
+docs_dir: pages
+site_dir: docs
