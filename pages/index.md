@@ -1,8 +1,10 @@
 ---
 title: About me
+description: If you want to get to know me. Here is my personal site, blog, contact, and resume.
+size: { width: 1200, height: 630 }
 ---
-# สวัสดี, Hello, こんにちは!
-A typical technology nerd. Current based at Tokyo Japan.
+# สวัสดี, Hello, こんにちは! 
+I am a typical technology nerd. Current based at Tokyo Japan.
 
 |Lang|Last Name|First Name|
 |-|-|-|

@@ -13,18 +13,13 @@ theme:
     code: Roboto Mono
     text: Roboto Mono
   palette:
-    - scheme: default
-      primary: purple
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-
     # Palette toggle for dark mode
-    - scheme: slate
-      primary: purple
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+    - scheme: slate 
+      primary: deep purple
+      # toggle:
+      #   icon: material/brightness-7 
+      #   name: Switch to dark mode
+
   features:
     - toc.integrate 
     - toc.follow
@@ -35,8 +30,10 @@ theme:
     - navigation.top
     - navigation.path
 plugins:
+  - social
   - blog:
       enabled: true
+
 markdown_extensions: 
   - attr_list
   - pymdownx.emoji:
