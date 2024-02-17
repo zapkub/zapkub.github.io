@@ -5,13 +5,13 @@ title: Educations
 ## Bachelor (`Bsc.IT`) degree
 2012
 **King Mongkut's University of Technology Thonburi**
-`The School Of Information and Technology`
+`The School Of Information and Technology (SIT)`
 :   Studied about computer business. The major subjects are related to Programming (`JAVA`), 
     Database Management, Networking, and Operating System Management.
 
 :   My senior project was about Kinect, Microsoft XNA and gesture control.
 
-Reference: [Main Campus Site (KMUTT)](https://www.kmutt.ac.th/en/), [Major Site (SIT)](https://www.sit.kmutt.ac.th/)
+Reference: [Main Campus Site (KMUTT)](https://www.kmutt.ac.th/en/), [SIT Site (SIT)](https://www.sit.kmutt.ac.th/)
 
 
 ## High school

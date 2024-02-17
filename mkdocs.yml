@@ -4,10 +4,9 @@ site_url: https://rungsikorn.rocks
 docs_dir: pages
 site_dir: docs
 theme:
+  custom_dir: extends
   icon:
-    logo: fontawesome/solid/cat
-    previous: fontawesome/solid/paw
-    next: fontawesome/solid/paw
+    logo: fontawesome/solid/r
   name: material
   font:
     code: Roboto Mono
@@ -23,7 +22,7 @@ theme:
   features:
     - toc.integrate 
     - toc.follow
-    - navigation.footer
+    # - navigation.footer
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
@@ -47,6 +46,13 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 copyright: Made with 💜 by Rungsikorn Rungsikavanich
 extra:
   copyright: "Made with love"

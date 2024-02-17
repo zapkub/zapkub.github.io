@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://rungsikorn.rocks/blog/2022/05/09/stop-using-window-as-any/</loc>
+         <lastmod>2024-02-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://rungsikorn.rocks/experiences/educations/</loc>
          <lastmod>2024-02-17</lastmod>
          <changefreq>daily</changefreq>
@@ -31,12 +36,32 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://rungsikorn.rocks/blog/archive/2022/</loc>
+         <lastmod>2024-02-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://rungsikorn.rocks/blog/category/job/</loc>
          <lastmod>2024-02-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rungsikorn.rocks/blog/category/relocate/</loc>
+         <lastmod>2024-02-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rungsikorn.rocks/blog/category/typescript/</loc>
+         <lastmod>2024-02-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rungsikorn.rocks/blog/category/programming/</loc>
+         <lastmod>2024-02-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rungsikorn.rocks/blog/category/typesafe/</loc>
          <lastmod>2024-02-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
