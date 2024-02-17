@@ -1,5 +1,65 @@
-site_name: My Docs
+site_name: Rungsikorn.rocks
 site_url: https://rungsikorn.rocks
 
 docs_dir: pages
 site_dir: docs
+theme:
+  icon:
+    logo: fontawesome/solid/cat
+    previous: fontawesome/solid/paw
+    next: fontawesome/solid/paw
+  name: material
+  font:
+    code: Roboto Mono
+    text: Roboto Mono
+  palette:
+    - scheme: default
+      primary: purple
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - toc.integrate 
+    - toc.follow
+    - navigation.footer
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.path
+plugins:
+  - blog:
+      enabled: true
+markdown_extensions: 
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+copyright: Made with 💜 by Rungsikorn Rungsikavanich
+extra:
+  copyright: "Made with love"
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/zapkub
+      name: "@zapkub"
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/rungsikorn
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/rungsikorn/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/rungsikorn-rungsikavarnich-28a63677/
