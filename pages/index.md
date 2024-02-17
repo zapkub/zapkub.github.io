@@ -69,7 +69,8 @@ Solana Network, Terra Network
 
 ## Fun facts
 - I am Thai, I was born in Chonburi, Thailand.
-- I am like cats. 
+- I like cats. 
+- I play Guitar, Piano, and Drum.
 
 
 
