@@ -4,7 +4,7 @@ description: If you want to get to know me. Here is my personal site, blog, cont
 size: { width: 1200, height: 630 }
 ---
 # สวัสดี, Hello, こんにちは! 
-I am a typical technology nerd. Current based at Tokyo Japan.
+I am a typical technology nerd. Currently live in Tokyo Japan.
 
 |Lang|Last Name|First Name|
 |-|-|-|
