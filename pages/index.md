@@ -2,7 +2,7 @@
 title: About me
 description: If you want to get to know me. Here is my personal site, blog, contact, and resume.
 ---
-# สวัสดี, Hello, こんにちは! 
+# TLDR; about myself
 
 :material-email: [`rungsikorn@icloud.com`](mailto:rungsikorn@icloud.com)
 :simple-github: [`@zapkub`](https://github.com/zapkub){:target="_blank"}
@@ -12,11 +12,7 @@ description: If you want to get to know me. Here is my personal site, blog, cont
 :fontawesome-solid-mobile-retro: :flag_th: `(+66) 87-***-9139`
 :flag_jp: `(+81) 70-****-1613`
 
-I am just a typical technology nerd. Currently live in Tokyo Japan.
-
-I am a `professional software engineer` with more than 10 years of experience as a full-stack software developer, I am passionate about it and eager to learn, sharing knowledge, adopt best practices and discovery with more people in this business.
-
-I aim myself to be versitiled for any task related to software development. Below topics are what I capable to do.
+Typical coding guy, currently live in Tokyo Japan.
 
 [🤓 Jump to my work experiences](./experiences/works.md)
 
@@ -48,7 +44,7 @@ Python, C#, Java, Dart, Swift, Objective-C, Kotlin, PHP
 ---
 
 ### Tools, and etc.
-There are a lot of tools in the modern software development world. I will would relate things that I used to use to build a production software.
+Few other tools I used to hands on.
 ```
 React, NextJS, PostCSS, SASS, Styled-Component, BEM, Tailwind, VanilaJS, Flutter, Angular.io,
 AngularJS, Unity, ExpressJS, NodeJS
@@ -72,7 +68,7 @@ Solana Network, Terra Network
 
 
 ## Facts
-- I am Thai. I was born in Chonburi, Thailand
+- I am Thai, born in Chonburi, Thailand
 - I like cats
 - I play Guitar, Piano, and Drum
 - I cook Thai food
@@ -90,3 +86,4 @@ Solana Network, Terra Network
 
 - I like workouts and gym
 - I enjoy running
+- I enjoy snowboarding

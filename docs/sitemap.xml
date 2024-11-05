@@ -2,67 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://rungsikorn.rocks/</loc>
-         <lastmod>2024-02-17</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-11-05</lastmod>
     </url>
     <url>
          <loc>https://rungsikorn.rocks/blog/</loc>
-         <lastmod>2024-02-17</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-11-05</lastmod>
     </url>
     <url>
          <loc>https://rungsikorn.rocks/blog/2024/01/31/how-did-i-move-to-japan/</loc>
-         <lastmod>2024-02-17</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-11-05</lastmod>
     </url>
     <url>
          <loc>https://rungsikorn.rocks/blog/2022/05/09/stop-using-window-as-any/</loc>
-         <lastmod>2024-02-17</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-11-05</lastmod>
     </url>
     <url>
          <loc>https://rungsikorn.rocks/experiences/educations/</loc>
-         <lastmod>2024-02-17</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-11-05</lastmod>
     </url>
     <url>
          <loc>https://rungsikorn.rocks/experiences/works/</loc>
-         <lastmod>2024-02-17</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-11-05</lastmod>
     </url>
     <url>
          <loc>https://rungsikorn.rocks/blog/archive/2024/</loc>
-         <lastmod>2024-02-17</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-11-05</lastmod>
     </url>
     <url>
          <loc>https://rungsikorn.rocks/blog/archive/2022/</loc>
-         <lastmod>2024-02-17</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-11-05</lastmod>
     </url>
     <url>
          <loc>https://rungsikorn.rocks/blog/category/job/</loc>
-         <lastmod>2024-02-17</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-11-05</lastmod>
     </url>
     <url>
          <loc>https://rungsikorn.rocks/blog/category/relocate/</loc>
-         <lastmod>2024-02-17</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-11-05</lastmod>
     </url>
     <url>
          <loc>https://rungsikorn.rocks/blog/category/typescript/</loc>
-         <lastmod>2024-02-17</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-11-05</lastmod>
     </url>
     <url>
          <loc>https://rungsikorn.rocks/blog/category/programming/</loc>
-         <lastmod>2024-02-17</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-11-05</lastmod>
     </url>
     <url>
          <loc>https://rungsikorn.rocks/blog/category/typesafe/</loc>
-         <lastmod>2024-02-17</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-11-05</lastmod>
     </url>
 </urlset>
